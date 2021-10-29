@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MyAppCourses</string>
     <string name="endPoint_Courses">https://courses-fake-api.herokuapp.com/</string>
-    <string name="endPoint_CoursesDetail">https://courses-fake-api.herokuapp.com/</string>
+    <string name="endPoint_CoursesDetail">https://courses-fake-api.herokuapp.com/courses_details</string>
     <string name="UrlCourses">courses</string>
 
 </resources>
